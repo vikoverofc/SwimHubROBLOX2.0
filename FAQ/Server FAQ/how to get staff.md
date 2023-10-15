@@ -1,6 +1,6 @@
-hello if you'd like to apply join our discord server and do the following below!
+Hello! If you'd like to apply join our discord server and do the following below!
 # Swimhub staff app!
-things to know before applying.
+Things to know before applying:
 
 - *1. you must be active*
 - *2. you must not have a toxic behavior*
