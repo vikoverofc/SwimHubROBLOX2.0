@@ -1,4 +1,4 @@
-# games swimhub works on. 
+# Games SwimHub works. 
 
 - KAT /\ https://www.roblox.com/games/621129760
 - Riot /\ https://www.roblox.com/games/6664138223
