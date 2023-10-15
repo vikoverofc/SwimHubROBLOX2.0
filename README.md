@@ -7,5 +7,5 @@
 3. *If you're still having issues, dm one of the staff member.*
 
 # what games does swimhub work on?
-*you can find what swimhub works on [here]()*
+*you can find what swimhub works on [here](https://github.com/vikoverofc/SwimHubROBLOX2.0/blob/main/Games%20Supported.md)*
 
