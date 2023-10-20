@@ -11,4 +11,4 @@
 
 # The main repository of the script
 *You can find it [here](https://github.com/SWIMHUBISWIMMING/-)*
-# 90% credits go to [Sharkify](https://github.com/sharkifyy/SwimHubROBLOX/tree/main/FAQ/Support)
+# 90% credits go to [Sharkify](https://github.com/sharkifyy/SwimHubROBLOX/tree/main)
